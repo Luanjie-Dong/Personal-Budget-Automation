@@ -31,7 +31,7 @@ The script leverages the gspread library to interact with the Personal Google AP
     - Follow the instructions to set up Google Sheets API and obtain the necessary credentials.
 2. **Install Required Libraries**:
     ```sh
-    pip install gspread pandas oauth2client
+    install gspread
     ```
 
 ---
