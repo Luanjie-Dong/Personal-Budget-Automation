@@ -2,8 +2,9 @@
 
 ## Overview
 
-This project involves the development of a personalized Python script to streamline personal budget analysis by efficiently reading monthly bank transaction data from downloaded Excel files. 
-The script leverages the gspread library to interact with the Personal Google API, facilitating data transfer and integration into my personal budget spreadsheet database for in-depth analysis. 
+This project involves the development of a personalised Python script to streamline personal budget analysis by efficiently reading monthly bank transaction data from downloaded Excel files. 
+The script uses the gspread library to interact with the Personal Google API, facilitating data transfer and integration into my personal budget spreadsheet database for in-depth analysis. 
+It is a personal project to showcase the practical use of Python language and data analysis I learned!!
 
 ---
 
@@ -12,7 +13,7 @@ The script leverages the gspread library to interact with the Personal Google AP
 - **Efficient Data Reading**: Reads monthly bank transaction data from CSV files.
 - **Data Transfer**: Uses the gspread library to interact with Google Sheets API for seamless data transfer.
 - **Data Integration**: Integrates data into a personal budget spreadsheet for comprehensive analysis.
-- **Data Cleaning**: Employs data cleaning techniques to ensure accuracy and reliability of financial data.
+- **Data Cleaning**: Employs data cleaning techniques to ensure the accuracy and reliability of financial data.
 - **Data Manipulation**: Demonstrates proficiency in handling and manipulating financial data.
 
 ---
