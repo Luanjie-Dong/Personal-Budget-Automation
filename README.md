@@ -4,7 +4,7 @@
 
 This project involves the development of a personalised Python script to streamline personal budget analysis by efficiently reading monthly bank transaction data from downloaded Excel files. 
 The script uses the gspread library to interact with the Personal Google API, facilitating data transfer and integration into my personal budget spreadsheet database for in-depth analysis. 
-It is a personal project to showcase the practical use of Python language and data analysis I learned!!
+It is a personal project to showcase the practical use of Python language and data analysis I learned!
 
 ---
 
